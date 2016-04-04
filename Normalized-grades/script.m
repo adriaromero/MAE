@@ -1,5 +1,12 @@
 %EX4  NORMALIZED STUDENT GRADES
 
+% Grading student performance fairly is not a trivial task when considering 
+% the different relative difficulty of the different units of one typical 
+% academic course. One possible procedure, used extensively, applies normalization 
+% to the student grading of every unit prior to average grade computation. 
+% Eventually, the average grade is also normalized and a Gaussian-type 
+% approximation is used for the final grade.
+
 % 1. Read xls file
 filename = 'Ex4_data.xls';
 A = xlsread(filename);
