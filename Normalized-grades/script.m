@@ -1,4 +1,4 @@
-%EX4  NORMALIZED STUDENT GRADES
+% NORMALIZED STUDENT GRADES
 
 % Grading student performance fairly is not a trivial task when considering 
 % the different relative difficulty of the different units of one typical 
